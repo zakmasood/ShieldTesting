@@ -6,6 +6,6 @@
 ![GitHub issues](https://img.shields.io/github/issues/zakmasood/ShieldTesting?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/zakmasood/ShieldTesting?style=for-the-badge)
 ![Coincap (Price USD)](https://img.shields.io/coincap/price-usd/bitcoin?style=for-the-badge)
-![Coincap (Price USD)](https://img.shields.io/coincap/price-usd/etherium?style=for-the-badge)
+![Coincap (Price USD)](https://img.shields.io/coincap/price-usd/ethereum?style=for-the-badge)
 ![Coincap (Price USD)](https://img.shields.io/coincap/price-usd/solana?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/zakmasood/ShieldTesting?style=for-the-badge)
