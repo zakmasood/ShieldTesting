@@ -1,6 +1,6 @@
 # ShieldTesting
 
-[![Contributors][contributors-shield]][contributors-url]
+![GitHub contributors](https://img.shields.io/github/contributors/zakmasood/ShieldTesting?label=CONT.&style=for-the-badge)
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
